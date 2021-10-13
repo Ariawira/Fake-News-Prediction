@@ -4,4 +4,4 @@ Dalam Repositori ini, saya sedang membangun Sistem Prediksi Berita Palsu menggun
 
 Saya akan menggunakan model Regresi Logistik untuk prediksi.
 
-Dataset :
+Dataset : https://www.kaggle.com/c/fake-news/data?select=train.csv
